@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AudioBookPlayer</string>
+
+    <!-- Author book 1 -->
+    <string name="author_book1">Band1</string>
+    <!-- Title book 1 -->
+    <string name="title_book1">Title1</string>
+    <!-- Author book 2 -->
+    <string name="author_book2">Band2</string>
+    <!-- Title book 2 -->
+    <string name="title_book2">Title2</string>
+    <!-- Author book 3 -->
+    <string name="author_book3">Band3</string>
+    <!-- Title book 3 -->
+    <string name="title_book3">Title3</string>
+    <!-- Author book 4 -->
+    <string name="author_book4">Band4</string>
+    <!-- Title book 4 -->
+    <string name="title_book4">Title4</string>
+    <!-- Author book 5 -->
+    <string name="author_book5">Band5</string>
+    <!-- Title book 5 -->
+    <string name="title_book5">Title5</string>
+    <!-- Author book 6 -->
+    <string name="author_book6">Band6</string>
+    <!-- Title book 6 -->
+    <string name="title_book6">Title6</string>
+    <!-- Author book 7 -->
+    <string name="author_book7">Band7</string>
+    <!-- Title book 7 -->
+    <string name="title_book7">Title7</string>
+    <!-- Author book 8 -->
+    <string name="author_book8">Band8</string>
+    <!-- Title book 8 -->
+    <string name="title_book8">Title8</string>
+    <!-- Author book 9 -->
+    <string name="author_book9">Band9</string>
+    <!-- Title book 9 -->
+    <string name="title_book9">Title9</string>
+    <!-- Author book 10 -->
+    <string name="author_book10">Band10</string>
+    <!-- Title book 10 -->
+    <string name="title_book10">Title10</string>
+</resources>
